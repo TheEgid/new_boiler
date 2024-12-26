@@ -8,8 +8,6 @@ const MainLayout: React.FC<{ children: React.ReactNode }> = ({ children }) => {
         <>
             {/* <Header className="layout__header header"> */}
 
-            <div className="header__logo">My-GIRO</div>
-
             {children}
 
             {/* //             </Header> */}
